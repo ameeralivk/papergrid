@@ -50,18 +50,21 @@
     justify-content: center;
     gap: 50px;
     margin-top: 35px;
+    cursor:pointer;
 }
 .section-2{
     display: flex;
     justify-content: center;
     gap: 50px;
     margin-top: 15px;
+    cursor:pointer;
 }
 .section-3{
     display: flex;
     justify-content: center;
     gap: 50px;
     margin-top: 15px;
+    cursor:pointer;
 }
 .image{
     width: 340px;
