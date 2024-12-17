@@ -211,7 +211,8 @@
     height: 46px;
     margin-left: 13px;
     margin-right: 22px;
-    margin-top: -3px
+    margin-top: -3px;
+    cursor:pointer;
 }
 .fa-solid{
     margin-left: 7px;
